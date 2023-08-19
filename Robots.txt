@@ -1,0 +1,18 @@
+User-Agent: *
+
+Disallow: /*search=*
+Disallow: /*countries=*
+Disallow: /*categories=*
+Disallow: /reviews
+Disallow: /#calculator
+Disallow: /contacts 
+Disallow: /request
+Disallow: /pravil-magazina
+
+
+User-Agent: YandexBot
+Disallow: /
+
+User-Agent: Yahoo
+Disallow: /
+Sitemap: https://nikittaa7.github.io/MarketingStudio/5605386_507.xml
